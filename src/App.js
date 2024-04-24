@@ -11,7 +11,7 @@ function App() {
       {/* <Callback /> */}
       {/* <Memo /> */}
       {/* <Debouncing /> */}
-      {/* <Ref /> */}
+      <Ref /> 
       <MyComponent />
     </div>
   );
