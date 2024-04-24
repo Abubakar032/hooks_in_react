@@ -3,7 +3,7 @@ import React from 'react'
 const githubDemo = () => {
   return (
     <div>
-      <h1>My name is Abubakar</h1>
+      <h1>My name is Husnain</h1>
     </div>
   )
 }
